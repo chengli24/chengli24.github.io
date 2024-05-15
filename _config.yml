@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Cheng Li"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Cheng Li"
+name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -20,9 +20,9 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-   Biographic information
+  # Biographic information
   avatar           : "profile.png"
-  name             : "Cheng Li"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
