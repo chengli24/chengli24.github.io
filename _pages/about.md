@@ -52,5 +52,5 @@ Learning Techniques. (EI-Compendex Conference, Under review)
 For more info
 ======
 You can find my CV here: [Cheng Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
-[Email](mailto:chengli0323@gmail.com)
-[Wechat](../images/wechat.jpg)
+You can add my Wechat here: [Wechat](../images/wechat.jpg)
+You can email to me here: [Email](mailto:chengli0323@gmail.com)
