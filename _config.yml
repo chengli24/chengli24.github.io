@@ -20,7 +20,7 @@ repository               : #"academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  Biographic information
+   Biographic information
   avatar           : #"profile.png"
   name             : "Cheng Li"
   pronouns         : # example: "she/her"  
@@ -35,9 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=ZAy-2MUAAAAJ&hl=zh-TW"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0004-5925-6438"
-  #semantic         : # URL
-  #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  
 
   # Repositories and software development
   #bitbucket        : # Username - Update with your username on the site
