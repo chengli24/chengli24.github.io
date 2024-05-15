@@ -11,13 +11,13 @@ I'm a first year MPhil Student in the Hong Kong University of Science and Techno
 
 Internship
 ------
-2021.08-2024.06 State Key Laboratory of Lunar and Planetary Sciences, Macau University of Science and Technology (Research Assistant, Supervisor: Prof. Xiaolin Tian)
-2022.07-2022.08 School of Earth and Space Sciences, Peking University (Student Assistant, Supervisor: Prof. Xiuwan Chen)
-2023.05-2023.07 Aerospace Information Research Institute, Chinese Academy of Sciences (Research Assistant, Supervisor: Prof. Zhanfeng Shen)
-2023.07-2023.08 Institute of Astronomy and Astrophysics, Academia Sinica, Taiwan (Research Assistant, Supervisor: Dr. Hsien Shang) (online remote side)
-2023.07-2023.07 the Lab for Space Research, the University of Hong Kong (Research Assistant, Supervisor: Prof. Quentin Parker & Dr. Andreas Ritter)
-2023.08-2023.08 Qi An Xin Technology（Macau）Group Inc (Network Security Engineer)
-2024.01-2024.06 Institute for AI Industry Research, Tsinghua University (Research Assistant, Supervisor: Prof. Hao Zhao)
+1. 2021.08-2024.06 State Key Laboratory of Lunar and Planetary Sciences, Macau University of Science and Technology (Research Assistant, Supervisor: Prof. Xiaolin Tian)
+2. 2022.07-2022.08 School of Earth and Space Sciences, Peking University (Student Assistant, Supervisor: Prof. Xiuwan Chen)
+3. 2023.05-2023.07 Aerospace Information Research Institute, Chinese Academy of Sciences (Research Assistant, Supervisor: Prof. Zhanfeng Shen)
+4. 2023.07-2023.08 Institute of Astronomy and Astrophysics, Academia Sinica, Taiwan (Research Assistant, Supervisor: Dr. Hsien Shang) (online remote side)
+5. 2023.07-2023.07 the Lab for Space Research, the University of Hong Kong (Research Assistant, Supervisor: Prof. Quentin Parker & Dr. Andreas Ritter)
+6. 2023.08-2023.08 Qi An Xin Technology（Macau）Group Inc (Network Security Engineer)
+7. 2024.01-2024.06 Institute for AI Industry Research, Tsinghua University (Research Assistant, Supervisor: Prof. Hao Zhao)
 
 Awards
 ======
@@ -51,6 +51,6 @@ Learning Techniques. (EI-Compendex Conference, Under review)
 
 For more info
 ------
-You can find my CV here: [Cheng Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf
+You can find my CV here: [Cheng Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 [Email](mailto:chengli0323@gmail.com)
 [Wechat](../images/wechat.jpg)
