@@ -11,6 +11,12 @@ I'm a first year MPhil Student in the Hong Kong University of Science and Techno
 
 Internship
 ------
+1. Awarded 2020-2021, 2021-2022, 2022-2023 Dean' s Honour List in the SCSE, MUST.
+2. Awarded 2024 Asian Future Leader Scholarship Program (AFLSP).
+3. Awarded 2021-2022 Dean' s Scholarship in the SCSE, MUST.
+4. Awarded 2021-2022 Bank of China Scholarship.
+5. Awarded the 5th "Bei Dou Star" Innovation and Innovation Competition (Silk Road International Challenge) Grand Prize.
+6. Awarded 2022 Huawei ICT Competition (Macau Cloud Circuit) Excellent Prize.
 1. 2021.08-2024.06 State Key Laboratory of Lunar and Planetary Sciences, Macau University of Science and Technology (Research Assistant, Supervisor: Prof. Xiaolin Tian).
 2. 2022.07-2022.08 School of Earth and Space Sciences, Peking University (Student Assistant, Supervisor: Prof. Xiuwan Chen).
 3. 2023.05-2023.07 Aerospace Information Research Institute, Chinese Academy of Sciences (Research Assistant, Supervisor: Prof. Zhanfeng Shen).
