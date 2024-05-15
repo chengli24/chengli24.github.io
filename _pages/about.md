@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year MPhil&PhD Student in the Hong Kong University of Science and Technology (HKUST) with the scholarship of the 2024 Asia Future Leaders Scholarship (AFLSP). My research interests focus on Deep Learning, Atmospheric Remote Sensing and Image Processing. I am very fortunate to be advised by Prof. Dasa Gu and Prof. Alexis Kai Hon Lau. I got my BSc. Degree of Computer Science from Macau University of Science and Technology (MUST) in 2024, was advised by Prof. Xiaolin Tian.
+I'm a first year MPhil&PhD Student in the Hong Kong University of Science and Technology (HKUST) with the scholarship of the 2024 Asia Future Leaders Scholarship (AFLSP). My research interests focus on Deep Learning, Atmospheric Remote Sensing and Image Processing. I am very fortunate to be advised by Prof. Dasa Gu and Prof. Alexis Kai Hon Lau. I received my BSc. Degree of Computer Science from Macau University of Science and Technology (MUST) in 2024, was advised by Prof. Xiaolin Tian.
 
 Internship
 ======
