@@ -10,13 +10,7 @@ redirect_from:
 I'm a first year MPhil Student in the Hong Kong University of Science and Technology (HKUST) with the scholarship of the 2024 Asia Future Leaders Scholarship (AFLSP). My research interests focus on Deep Learning, Atmospheric Remote Sensing and Image Processing. I am very fortunate to be advised by Prof. Dasa Gu and Prof. Alexis Kai Hon Lau. I got my BSc. Degree of Computer Science from Macau University of Science and Technology (MUST) in 2024, was advised by Prof. Xiaolin Tian.
 
 Internship
-------
-1. Awarded 2020-2021, 2021-2022, 2022-2023 Dean' s Honour List in the SCSE, MUST.
-2. Awarded 2024 Asian Future Leader Scholarship Program (AFLSP).
-3. Awarded 2021-2022 Dean' s Scholarship in the SCSE, MUST.
-4. Awarded 2021-2022 Bank of China Scholarship.
-5. Awarded the 5th "Bei Dou Star" Innovation and Innovation Competition (Silk Road International Challenge) Grand Prize.
-6. Awarded 2022 Huawei ICT Competition (Macau Cloud Circuit) Excellent Prize.
+======
 1. 2021.08-2024.06 State Key Laboratory of Lunar and Planetary Sciences, Macau University of Science and Technology (Research Assistant, Supervisor: Prof. Xiaolin Tian).
 2. 2022.07-2022.08 School of Earth and Space Sciences, Peking University (Student Assistant, Supervisor: Prof. Xiuwan Chen).
 3. 2023.05-2023.07 Aerospace Information Research Institute, Chinese Academy of Sciences (Research Assistant, Supervisor: Prof. Zhanfeng Shen).
@@ -56,7 +50,7 @@ Learning Techniques. (EI-Compendex Conference, Under review)
 9. Chen S*, Li C*, Ma Y*, Liang J, Zhu J, Tian X. 2024 World Congress in Computer Science, Computer Engineering, & Applied Computing (CSCE): the 28th International Conference on Image Processing, Computer Vision, & Pattern Recognition, Deep Learning Techniques for Lunar Impact Crater Identification Based on CCD and DEM Data. (*Authors contributed equally, EI-Compendex Conference, Under review)
 
 For more info
-------
+======
 You can find my CV here: [Cheng Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 [Email](mailto:chengli0323@gmail.com)
 [Wechat](../images/wechat.jpg)
