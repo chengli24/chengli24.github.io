@@ -50,8 +50,7 @@ Learning Techniques. (EI-Compendex Conference, Under review)
 9. Chen S\*, Li C\*, Ma Y\*, Liang J, Zhu J, Tian X. 2024 World Congress in Computer Science, Computer Engineering, & Applied Computing (CSCE): the 28th International Conference on Image Processing, Computer Vision, & Pattern Recognition, Deep Learning Techniques for Lunar Impact Crater Identification Based on CCD and DEM Data. (\*Authors contributed equally, EI-Compendex Conference, Under review)
 
 For more info
-For more info
 ======
-You can find my CV here: [Cheng Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
-You can add my Wechat here: [Wechat](../images/wechat.jpg)
+You can find my CV here: [Cheng Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)  
+You can add my Wechat here: [Wechat](../images/wechat.jpg)  
 You can email to me here: [Email](mailto:chengli0323@gmail.com)
