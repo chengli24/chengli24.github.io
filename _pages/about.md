@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Cheng Li(李承）'s personal webpage"
+title: "Cheng Li(李承)'s personal webpage"
 author_profile: true
 redirect_from: 
   - /about/
