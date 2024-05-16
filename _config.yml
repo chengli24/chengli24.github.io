@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Cheng Li's Personal Webpage"
+title                    : "Cheng Li's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Cheng Li"
 description              : &description "MPhil & PhD student in HKUST"
