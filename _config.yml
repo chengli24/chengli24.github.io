@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0009-0004-5925-6438"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/scientific-contributions/Cheng-Li-2265798214"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -55,7 +55,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : cheng_li0323
+  instagram        : cl_cheng0323
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
