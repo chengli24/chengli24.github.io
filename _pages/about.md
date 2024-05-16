@@ -47,7 +47,7 @@ Sustainable Environemntal Conservation. (SCI JCR Q3, Under review)
 Macau Wetlands. (SCI JCR Q4, Under review)
 8. Li C, Chen S, Ma Y, Song M, Tian X, Cui H. 2024 IEEE 7th International Conference on Big data and Artificial Intelligence, Wheat Pest Identification Based on Deep 
 Learning Techniques. (EI-Compendex Conference, Under review)
-9. Chen S*, Li C*, Ma Y*, Liang J, Zhu J, Tian X. 2024 World Congress in Computer Science, Computer Engineering, & Applied Computing (CSCE): the 28th International Conference on Image Processing, Computer Vision, & Pattern Recognition, Deep Learning Techniques for Lunar Impact Crater Identification Based on CCD and DEM Data. (*Authors contributed equally, EI-Compendex Conference, Under review)
+9. Chen S\*, Li C\*, Ma Y\*, Liang J, Zhu J, Tian X. 2024 World Congress in Computer Science, Computer Engineering, & Applied Computing (CSCE): the 28th International Conference on Image Processing, Computer Vision, & Pattern Recognition, Deep Learning Techniques for Lunar Impact Crater Identification Based on CCD and DEM Data. (\*Authors contributed equally, EI-Compendex Conference, Under review)
 
 For more info
 For more info
