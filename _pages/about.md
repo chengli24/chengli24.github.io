@@ -31,14 +31,14 @@ Awards
 Publications
 ======
 1. Li C, Tian Y, Tian X, Zhai Y, Cui H, Song M. Agronomy[j], An Advancing GCT-Inception-ResNet-V3 Model for Arboreal
-Pest Identification. (SCI JCR Q1, DOI: URL:'https://doi.org/10.3390/agronomy14040864')
+Pest Identification. (SCI JCR Q1, [DOI: https://doi.org/10.3390/agronomy14040864](https://doi.org/10.3390/agronomy14040864))
 2. Li C, Cui H, Tian X. Applied Sciences[j], A Novel CA-RegNet model for Macau Wetlands Auto Segmentation Based on GF2
-Remote Sensing Images. (SCI JCR Q2, DOI: URL:'https://doi.org/10.3390/app132212178' )
+Remote Sensing Images. (SCI JCR Q2, [DOI: https://doi.org/10.3390/app132212178](https://doi.org/10.3390/app132212178))
 3. Li C. 2023 4th International Conference on Machine Learning and Computer Application (ICMLCA 2023),
 Assessing the Performance of PINN and CNN Approaches in Solving the 1D Burgers' Equation with Deep Learning
-Architectures. (EI-Compendex Conference, DOI: URL:'https://doi.org/10.1145/3650215.3650370')
+Architectures. (EI-Compendex Conference, [DOI: https://doi.org/10.1145/3650215.3650370](https://doi.org/10.1145/3650215.3650370))
 4. Li C, Cui H, Tian X. Journal of Physics: Conference Series: 2023 International Conference on Big Data, Information and Intelligent Engineering, Remote Sensing
-Image Segmentation of Wetlands in Macau Based on Machine Learning. (EI-Compendex Conference, DOI: URL:'https://doi.org/10.1088/1742-6596/2665/1/012006')
+Image Segmentation of Wetlands in Macau Based on Machine Learning. (EI-Compendex Conference, [DOI: https://doi.org/10.1088/1742-6596/2665/1/012006](https://doi.org/10.1088/1742-6596/2665/1/012006))
 5. Li C, Cui H, Tian X. Journal of Macau University of Science and Technology, Remote Sensing Image Segmentation of
 Macau Wetlands Based on Convolutional Neural Network. (Accepted) （澳門科技大學學報）
 6. Li C, Song M. Journal of Sustainable Forestry[j], A Novel TAME-RegNetY Model: Enhancing Plant Pest Identification for
