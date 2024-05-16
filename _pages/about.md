@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year MPhil&PhD Student in the Hong Kong University of Science and Technology (HKUST) with the scholarship of the 2024 Asian Future Leaders Scholarship (AFLSP). My research interests focus on Deep Learning, Atmospheric Remote Sensing and Image Processing. I am very fortunate to be advised by Prof. Dasa Gu and Prof. Alexis Kai Hon Lau. I received my BSc. Degree of Computer Science from Macau University of Science and Technology (MUST) in 2024, was advised by Prof. Xiaolin Tian.
+I'm a first year MPhil&PhD Student in the Hong Kong University of Science and Technology (HKUST) with the scholarship of the 2024 Asian Future Leader Scholarship (AFLSP). My research interests focus on Deep Learning, Atmospheric Remote Sensing and Image Processing. I am very fortunate to be advised by Prof. Dasa Gu and Prof. Alexis Kai Hon Lau. I received my BSc. Degree of Computer Science from Macau University of Science and Technology (MUST) in 2024, was advised by Prof. Xiaolin Tian.
 
 Internship
 ======
@@ -31,7 +31,7 @@ Awards
 Publications
 ======
 1. Li C, Tian Y, Tian X, Zhai Y, Cui H, Song M. Agronomy[j], An Advancing GCT-Inception-ResNet-V3 Model for Arboreal
-Pest Identification. (SCI JCR Q1, DOI: url:'https://doi.org/10.3390/agronomy14040864')
+Pest Identification. (SCI JCR Q1, DOI: 'https://doi.org/10.3390/agronomy14040864')
 2. Li C, Cui H, Tian X. Applied Sciences[j], A Novel CA-RegNet model for Macau Wetlands Auto Segmentation Based on GF2
 Remote Sensing Images. (SCI JCR Q2, DOI: 'https://doi.org/10.3390/app132212178' )
 3. Li C. 2023 4th International Conference on Machine Learning and Computer Application (ICMLCA 2023),
