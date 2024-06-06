@@ -41,14 +41,14 @@ Architectures. (EI-Compendex Conference, [DOI: https://doi.org/10.1145/3650215.3
 Image Segmentation of Wetlands in Macau Based on Machine Learning. (EI-Compendex Conference, [DOI: https://doi.org/10.1088/1742-6596/2665/1/012006](https://doi.org/10.1088/1742-6596/2665/1/012006))
 5. Li C\*, Chen S\*, Ma Y\*, Song M, Tian X, Cui H. 2024 IEEE 7th International Conference on Big data and Artificial Intelligence, Wheat Pest Identification Based on Deep 
 Learning Techniques. (\*Authors contributed equally, EI-Compendex Conference, Accepted)
-6. Li C, Cui H, Tian X. Journal of Macau University of Science and Technology, Remote Sensing Image Segmentation of
+6. Chen S\*, Li C\*, Ma Y\*, Liang J, Zhu J, Tian X. 2024 World Congress in Computer Science, Computer Engineering, & Applied Computing (CSCE): the 28th International Conference on Image Processing, Computer Vision, & Pattern Recognition, Deep Learning Techniques for Lunar Impact Crater Identification Based on CCD and DEM Data. (\*Authors contributed equally, EI-Compendex Conference, Accepted)
+7. Li C, Cui H, Tian X. Journal of Macau University of Science and Technology, Remote Sensing Image Segmentation of
 Macau Wetlands Based on Convolutional Neural Network. (CNKI, Accepted) （澳門科技大學學報）
-7. Ma Y\*, Huang Y\*, Li C\*, Chen S\*, Yang S, Zheng Y, Li J, Huan Y. 2024 IEEE Biomedical Circuits and Systems Conference (BioCAS), A Hybrid Brain-Computer Interface based Wearable Exoskeleton System for Fine-Grained Hand Rehabilitation. (\*Authors contributed equally, Top Conference, Under review)
-8. Li C, Song M. Journal of Sustainable Forestry[j], A Novel TAME-RegNetY Model: Enhancing Plant Pest Identification for
+8. Ma Y\*, Huang Y\*, Li C\*, Chen S\*, Yang S, Zheng Y, Li J, Huan Y. 2024 IEEE Biomedical Circuits and Systems Conference (BioCAS), A Hybrid Brain-Computer Interface based Wearable Exoskeleton System for Fine-Grained Hand Rehabilitation. (\*Authors contributed equally, Top Conference, Under review)
+9. Li C, Song M. Journal of Sustainable Forestry[j], A Novel TAME-RegNetY Model: Enhancing Plant Pest Identification for
 Sustainable Environemntal Conservation. (SCI JCR Q3, Under review)
-9. Li C, Cui H, Tian X. Doklady Earth Sciences[j], Deep Learning-based GF-2 Remote Sensing Image Segmentation 1 of
+10. Li C, Cui H, Tian X. Doklady Earth Sciences[j], Deep Learning-based GF-2 Remote Sensing Image Segmentation 1 of
 Macau Wetlands. (SCI JCR Q4, Under review)
-10. Chen S\*, Li C\*, Ma Y\*, Liang J, Zhu J, Tian X. 2024 World Congress in Computer Science, Computer Engineering, & Applied Computing (CSCE): the 28th International Conference on Image Processing, Computer Vision, & Pattern Recognition, Deep Learning Techniques for Lunar Impact Crater Identification Based on CCD and DEM Data. (\*Authors contributed equally, EI-Compendex Conference, Under review)
 
 For more info
 ======
