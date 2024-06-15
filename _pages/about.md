@@ -25,7 +25,7 @@ Awards
 1. Awarded 2024 Asian Future Leader Scholarship Program (AFLSP).
 2. Awarded 2020-2021, 2021-2022, 2022-2023 Dean' s Honour List in the SCSE, MUST.
 3. Awarded 2024 First Prize of Zhuhai-Macau Computer Design Competition (Big Data and Artificial Intelligence Technology Application Track).
-4. Awarded 2024 Second Class Honor Cord for Outstanding Academic Achievement, MUST. (Undergraduate CGPA >= 3.80/4.00, Only two students in the entire Faculty have received this honor cord award)
+4. Awarded 2024 Second Class Honor Cord Award for Outstanding Academic Achievement, MUST. (Undergraduate CGPA >= 3.80/4.00, Only two students in the entire Faculty have received this honor cord award)
 5. Awarded 2021-2022 Dean' s Scholarship in the SCSE, MUST.
 6. Awarded 2021-2022 Bank of China Scholarship.
 7. Awarded the 5th "Bei Dou Star" Innovation and Innovation Competition (Silk Road International Challenge) Grand Prize.
@@ -55,6 +55,6 @@ Macau Wetlands. (SCI JCR Q4, Under review)
 
 For more info
 ======
-You can find my CV here: [Cheng Li's Curriculum Vitae](../assets/Cheng Li10086.pdf)  
+You can find my CV here: [Cheng Li's Curriculum Vitae](../assets/Cheng Li10087.pdf)  
 You can add my Wechat here: [Wechat](../images/wechat.jpg)  
 You can email to me here: [Email](mailto:chengli0323@gmail.com)
