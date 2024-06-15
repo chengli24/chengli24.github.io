@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year MPhil&PhD Student in the Hong Kong University of Science and Technology (HKUST) with the scholarship of the 2024 Asian Future Leader Scholarship (AFLSP). My research interests focus on Deep Learning, Atmospheric Remote Sensing and Image Processing. I am very fortunate to be advised by Prof. Dasa Gu and Prof. Alexis Kai Hon Lau. I received my BSc. Degree of Computer Science from Macau University of Science and Technology (MUST) in 2024, was advised by Prof. Xiaolin Tian.
+I'm a first year MPhil&PhD Student in the Hong Kong University of Science and Technology (HKUST) with the scholarship of the 2024 Asian Future Leader Scholarship (AFLSP). My research interests focus on Deep Learning, Atmospheric Remote Sensing and Image Processing. I am very fortunate to be advised by Prof. Dasa Gu and Prof. Alexis Kai Hon Lau. I received my BSc. Degree of Computer Science from Macau University of Science and Technology (MUST) in 2024 with first class honour degree, was advised by Prof. Xiaolin Tian.
+
 
 Internship
 ======
@@ -21,12 +22,14 @@ Internship
 
 Awards
 ======
-1. Awarded 2020-2021, 2021-2022, 2022-2023 Dean' s Honour List in the SCSE, MUST.
-2. Awarded 2024 Asian Future Leader Scholarship Program (AFLSP).
-3. Awarded 2021-2022 Dean' s Scholarship in the SCSE, MUST.
-4. Awarded 2021-2022 Bank of China Scholarship.
-5. Awarded the 5th "Bei Dou Star" Innovation and Innovation Competition (Silk Road International Challenge) Grand Prize.
-6. Awarded 2022 Huawei ICT Competition (Macau Cloud Circuit) Excellent Prize.
+1. Awarded 2024 Asian Future Leader Scholarship Program (AFLSP).
+2. Awarded 2020-2021, 2021-2022, 2022-2023 Dean' s Honour List in the SCSE, MUST.
+3. Awarded 2024 First Prize of Zhuhai-Macau Computer Design Competition (Big Data and Artificial Intelligence Technology Application Track).
+4. Awarded 2024 Second Class Honor Cord for Outstanding Academic Achievement, MUST. (Undergraduate CGPA >= 3.80/4.00, Only two students in the entire Faculty have received this honor cord award)
+5. Awarded 2021-2022 Dean' s Scholarship in the SCSE, MUST.
+6. Awarded 2021-2022 Bank of China Scholarship.
+7. Awarded the 5th "Bei Dou Star" Innovation and Innovation Competition (Silk Road International Challenge) Grand Prize.
+8. Awarded 2022 Huawei ICT Competition (Macau Cloud Circuit) Excellent Prize.
 
 Publications
 ======
